@@ -1,0 +1,34 @@
+h1 {color:blueviolet;
+    font-size: 100px;
+
+margin-bottom: 10px;
+position: absolute;
+top:15%;
+left: 50%;
+transform: translate(-50%, -50%);
+}
+ .thingundertitle {text-align: center;
+margin-top: 0px;
+position: absolute;
+top:30%;
+left: 50%;
+transform: translate(-50%, -50%);
+}  
+h3 {
+    text-align: center;
+    color: aquamarine;
+    font-size: 25px;
+    background-color: white;
+   padding-top: 30px;
+   margin-top: -10px;
+   padding-bottom: 25px;
+   margin-left: -10px;
+   margin-right: -10px;
+}
+
+body {
+    background-image: url("C:/Users/Brayden/Desktop/image.jpg");
+  }
+  .links {
+    margin: 20px;
+  }
